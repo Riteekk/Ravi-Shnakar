@@ -1,0 +1,35 @@
+body{
+    background-image:url("background.jpg");
+    background-size: cover;
+}
+.note{
+    font-size: 16px;
+    color: rgb(200, 255, 0);
+}
+h3{
+  background-color: blueviolet;
+  color: whitesmoke;
+  font-size: 20px;
+}
+.div_speed{
+    float: left;
+}
+.div_speed_img{
+    width:220px;
+    border-radius: 100px;
+}
+.div_volume{
+    float: right;
+}
+.div_volume_img{
+    width:220px;
+    border-radius: 100px;
+}
+.play_button{
+    width: 120px;
+    font-size: 20px;
+   }
+canves{
+    border:5px dashed orangered;
+    border-radius: 20px;
+}
